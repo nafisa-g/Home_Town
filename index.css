@@ -1,0 +1,120 @@
+.Build{
+    
+    background-image: url("./torshov.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    display:flex ;
+    flex-direction: column;
+    margin-bottom: 0;
+    width:100%;
+    background-size:cover;
+    padding:180px;
+    padding-left: 50px;
+
+    
+}
+.Build-1{
+    background-color: #1D3557;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+   
+}
+.Build-2{
+    background-color: #01446e;
+    width: 450px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.yaseen{
+   text-align: center;
+   margin-top: 0;
+   padding-top: 40px;
+}
+.top-1{
+    height: 100px;
+    width: 100px;
+    border-radius: 500%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.TOP{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.Demo{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.JAN{
+   /* background-color: #A8DADC ;*/
+    display: flex;
+    flex-direction: row;
+    border:1px solid blue;
+ 
+    background-color:#A8DADC;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 7px solid pink;
+    border-radius: 10px;
+    justify-content: space-around;
+    margin-top: 80px;
+  
+    
+}
+.jan-1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    border-radius: 10px;
+    height: 250px;
+
+
+   
+    
+}
+.qaz{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  
+}
+.top-2{
+   width:450px;
+   text-align: center;
+   font-size: 23px;
+}
+.jan-3{
+    width:189px;
+    height: 32px;
+    text-align: center;
+    margin:50px 0;
+    line-height: 27.6px;
+
+}
+.qaz p{
+    margin-bottom: 90px;
+}
+.qwe{
+    background-color: #F1FAEE;
+  
+   
+}
+
